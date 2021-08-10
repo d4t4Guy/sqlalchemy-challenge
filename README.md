@@ -10,7 +10,7 @@ Practice with sqlalchemy
  1. Used SQL Alchemy to: connect to provided sqlite file, reflect tables, get metadata, and pass queries in both SQL and session queries to the SQL db. 
  
 ## Finding: 
-Yes, Hawaii's famously mild weather deserves its reputation, with high temps almost always between 70 and 80F. Precipitation is frequent, but accumulation is minimal.
+Yes, Hawaii's famously mild weather deserves its reputation, with high temps almost always between 70 and 80F. Precipitation is frequent, but accumulation is usually minimal. Several high rain days in the past year of data, but they are less frequent than lower accumulation days. 
 
 * Precipitation over time: 
 ![Precip Graph](precip_trend.png)
